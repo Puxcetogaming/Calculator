@@ -105,3 +105,6 @@ class Calculator:
 root = tk.Tk()
 my_calculator = Calculator(root)
 root.mainloop()
+
+
+# Made by puxceto for practice purposes
